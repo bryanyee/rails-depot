@@ -1,24 +1,3 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Rails shopping cart application, based on the book [Agile Web Development with Rails 5](https://www.amazon.com/Agile-Web-Development-Rails-5/dp/1680501712) (Sam Ruby, Dave Thomas, David Heinemeier Hansson)
